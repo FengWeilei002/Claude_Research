@@ -2,20 +2,8 @@
 data/
 output/
 
-# Obsidian workspace (volatile, machine-specific)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/
-.obsidian/themes/
-
-# Keep .obsidian core config
-!.obsidian/app.json
-!.obsidian/appearance.json
-!.obsidian/core-plugins.json
-!.obsidian/core-plugins-migration.json
-!.obsidian/community-plugins.json
-!.obsidian/hotkeys.json
-!.obsidian/templates.json
+# Obsidian (personal settings, not version-controlled)
+.obsidian/
 
 # Claude local settings (project-specific, keep in repo)
 # .claude/settings.local.json is tracked
