@@ -2,7 +2,7 @@
 
 ## 项目性质
 
-运筹学/工程学博士研究项目。此 vault 同时被 Obsidian 和 Claude Code 使用。
+运筹学/理论经济学博士研究项目。此 vault 同时被 Obsidian 和 Claude Code 使用。
 
 ## 目录约定
 
