@@ -1,0 +1,2839 @@
+[
+  {
+    "ref": {
+      "id": 1,
+      "authors": "成静",
+      "title": "塞北的风点亮湾区的灯——我国十四五以来能源事业取得突破性进展和历史性成就",
+      "journal": "中国发展网",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2025",
+      "type": "news",
+      "note": "https://www.chinadevelopment.com.cn/"
+    },
+    "crossref": {
+      "title": "超塑性变形的力学理论和成形规律的研究取得突破性进展",
+      "authors": "",
+      "container": "Chinese Science Bulletin",
+      "volume": "34",
+      "issue": "13",
+      "pages": "961-962",
+      "year": "1989",
+      "doi": "10.1360/csb1989-34-13-961",
+      "type": "journal-article",
+      "score": 109.05953
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 2,
+      "authors": "高利伟, 许世卫, 李哲敏 等",
+      "title": "中国主要粮食作物产后损失特征及减损潜力研究",
+      "journal": "农业工程学报",
+      "volume": "32",
+      "issue": "23",
+      "pages": "1-11",
+      "year": "2016",
+      "type": "journal",
+      "note": "doi:10.11975/j.issn.1002-6819.2016.23.001"
+    },
+    "crossref": {
+      "title": "中国主要粮食生产的化肥削减潜力及其碳减排效应",
+      "authors": "张灿强; Canqiang, ZHANG; 王莉; 华春林; 金书秦 et al.",
+      "container": "资源科学",
+      "volume": "38",
+      "issue": "4",
+      "pages": "790-797",
+      "year": "2016",
+      "doi": "10.18402/resci.2016.04.20",
+      "type": "journal-article",
+      "score": 80.236664
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "title",
+        "标题不一致: 声称=\"中国主要粮食作物产后损失特征及减损潜力研究...\" vs Crossref=\"中国主要粮食生产的化肥削减潜力及其碳减排效应...\""
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"农业工程学报\" vs Crossref=\"资源科学\""
+      ],
+      [
+        "volume",
+        "卷: 声称=32, Crossref=38"
+      ],
+      [
+        "issue",
+        "期: 声称=23, Crossref=4"
+      ],
+      [
+        "pages",
+        "页码: 声称=1-11, Crossref=790-797"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 3,
+      "authors": "高亮, 余飞, 卢超",
+      "title": "车间绿色调度研究综述",
+      "journal": "国防科技大学学报",
+      "volume": "47",
+      "issue": "2",
+      "pages": "1-23",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "红色文化资源融入高校课程思政建设研究综述",
+      "authors": "",
+      "container": "理论研究学刊",
+      "volume": "1",
+      "issue": "2",
+      "pages": "",
+      "year": "2025",
+      "doi": "10.62662/llyj0102020",
+      "type": "journal-article",
+      "score": 56.002758
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "title",
+        "标题不一致: 声称=\"车间绿色调度研究综述...\" vs Crossref=\"红色文化资源融入高校课程思政建设研究综述...\""
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"国防科技大学学报\" vs Crossref=\"理论研究学刊\""
+      ],
+      [
+        "volume",
+        "卷: 声称=47, Crossref=1"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 4,
+      "authors": "雷德明, 杨冬婧",
+      "title": "具有总能耗约束的柔性作业车间调度问题研究",
+      "journal": "自动化学报",
+      "volume": "44",
+      "issue": "11",
+      "pages": "2083-2091",
+      "year": "2018",
+      "type": "journal",
+      "note": "doi:10.16383/j.aas.2018.c170515"
+    },
+    "crossref": {
+      "title": "Unrelated Parallel Machines Scheduling with Shared Flexible Resources",
+      "authors": "林, 聪",
+      "container": "Management Science and Engineering",
+      "volume": "11",
+      "issue": "03",
+      "pages": "341-355",
+      "year": "2022",
+      "doi": "10.12677/mse.2022.113042",
+      "type": "journal-article",
+      "score": 96.01227
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 5,
+      "authors": "雷德明, 杨海",
+      "title": "求解多目标不相关并行机调度问题的多群体人工蜂群算法",
+      "journal": "控制与决策",
+      "volume": "37",
+      "issue": "5",
+      "pages": "1174-1182",
+      "year": "2022",
+      "type": "journal",
+      "note": "doi:10.13195/j.kzyjc.2020.1416"
+    },
+    "crossref": {
+      "title": "多阶段协同求解卫星舱耦合布局优化问题的双邻域人工蜂群算法",
+      "authors": "Renbin, XIAO; Zhendong, HUANG",
+      "container": "SCIENTIA SINICA Informationis",
+      "volume": "46",
+      "issue": "2",
+      "pages": "193-211",
+      "year": "2016",
+      "doi": "10.1360/n112014-00301-197",
+      "type": "journal-article",
+      "score": 108.18948
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 6,
+      "authors": "李聪波, 雷焱绯, 肖溱鸽 等",
+      "title": "面向广义能耗的柔性作业车间调度优化模型",
+      "journal": "计算机集成制造系统",
+      "volume": "24",
+      "issue": "12",
+      "pages": "3050-3059",
+      "year": "2018",
+      "type": "journal",
+      "note": "doi:10.13196/j.cims.2018.12.012"
+    },
+    "crossref": {
+      "title": "Application of Improved Teaching-Learning-Based Optimization Algorithm in Flexible Job-Shop Scheduling Problem",
+      "authors": "陈, 其炜",
+      "container": "Modeling and Simulation",
+      "volume": "12",
+      "issue": "06",
+      "pages": "5843-5849",
+      "year": "2023",
+      "doi": "10.12677/mos.2023.126530",
+      "type": "journal-article",
+      "score": 77.68442
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 7,
+      "authors": "李娜, 王首彬",
+      "title": "不确定需求下易腐产品的生产配送优化模型",
+      "journal": "计算机应用研究",
+      "volume": "28",
+      "issue": "3",
+      "pages": "927-929, 934",
+      "year": "2011",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "基于HAT-GRU的柴油节能增效优化生产过程产量预测新模型",
+      "authors": "Cao, Lian",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2025",
+      "doi": "10.2139/ssrn.5155619",
+      "type": "posted-content",
+      "score": 76.67483
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 8,
+      "authors": "刘彩洁, 徐志涛, 张钦 等",
+      "title": "分时电价下基于NSGA-II的柔性作业车间绿色调度",
+      "journal": "中国机械工程",
+      "volume": "31",
+      "issue": "5",
+      "pages": "576-585",
+      "year": "2020",
+      "type": "journal",
+      "note": "doi:10.3969/j.issn.1004-132X.2020.05.009"
+    },
+    "crossref": {
+      "title": "Multi-Objective Flexible Job Shop Scheduling with Stochastic Processing Times Based on NSGAII",
+      "authors": "李, 淑月",
+      "container": "Software Engineering and Applications",
+      "volume": "14",
+      "issue": "02",
+      "pages": "441-456",
+      "year": "2025",
+      "doi": "10.12677/sea.2025.142040",
+      "type": "journal-article",
+      "score": 89.14073
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 9,
+      "authors": "吕俊杰, 孙双双",
+      "title": "基于鲜活农产品冷链物流配送的车辆路径优化研究",
+      "journal": "广东农业科学",
+      "volume": "40",
+      "issue": "9",
+      "pages": "178-181",
+      "year": "2013",
+      "type": "journal",
+      "note": "doi:10.16768/j.issn.1004-874X.2013.09.035"
+    },
+    "crossref": {
+      "title": "VEHICLE PATH OPTIMIZATION OF AGRICULTURAL PRODUCTS COLD CHAIN LOGISTICS BASED ON GREEN EVALUATION",
+      "authors": "YU, Jinhui; CHENG, Lili",
+      "container": "INMATEH Agricultural Engineering",
+      "volume": "",
+      "issue": "",
+      "pages": "441-454",
+      "year": "2023",
+      "doi": "10.35633/inmateh-70-43",
+      "type": "journal-article",
+      "score": 121.59727
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 10,
+      "authors": "马雪丽, 王淑云, 刘晓冰 等",
+      "title": "易腐食品二级供应链生产调度与配送路线的协同优化",
+      "journal": "工业工程与管理",
+      "volume": "22",
+      "issue": "2",
+      "pages": "46-52, 59",
+      "year": "2017",
+      "type": "journal",
+      "note": "doi:10.19495/j.cnki.1007-5429.2017.02.007"
+    },
+    "crossref": {
+      "title": "农业产业链优化与农村经济转型升级的路径探索",
+      "authors": "岳丽娜, 岳丽娜",
+      "container": "Academic Frontiers Publishing Group",
+      "volume": "2",
+      "issue": "1",
+      "pages": "10-14",
+      "year": "2025",
+      "doi": "10.62989/jemr2025.2.1.5",
+      "type": "journal-article",
+      "score": 89.95243
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 11,
+      "authors": "陶帝豪, 刘蓉, 雷勇杰 等",
+      "title": "基于绿色供应链的冷链物流配送路径优化",
+      "journal": "工业工程",
+      "volume": "22",
+      "issue": "2",
+      "pages": "89-95",
+      "year": "2019",
+      "type": "journal",
+      "note": "doi:10.3969/j.issn.1007-7375.2019.02.012"
+    },
+    "crossref": {
+      "title": "Research and Application of Cold Chain Logistics Distribution Path Optimization Based on Ant Colony Algorithm",
+      "authors": "张, 嘉灏",
+      "container": "Statistics and Application",
+      "volume": "13",
+      "issue": "06",
+      "pages": "2642-2656",
+      "year": "2024",
+      "doi": "10.12677/sa.2024.136254",
+      "type": "journal-article",
+      "score": 106.40749
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 12,
+      "authors": "王凌, 王晶晶, 吴楚格",
+      "title": "绿色车间调度优化研究进展",
+      "journal": "控制与决策",
+      "volume": "33",
+      "issue": "3",
+      "pages": "385-391",
+      "year": "2018",
+      "type": "journal",
+      "note": "doi:10.13195/j.kzyjc.2017.0509"
+    },
+    "crossref": {
+      "title": "绿色建筑中的暖通系统设计与优化研究",
+      "authors": "王　樱",
+      "container": "城市建筑与发展",
+      "volume": "5",
+      "issue": "7",
+      "pages": "118-120",
+      "year": "2024",
+      "doi": "10.37155/2717-557x-0507-40",
+      "type": "journal-article",
+      "score": 65.08023
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 13,
+      "authors": "吴瑶, 马祖军, 郑斌",
+      "title": "有新鲜度限制的易腐品生产-配送协同调度",
+      "journal": "计算机应用",
+      "volume": "38",
+      "issue": "4",
+      "pages": "1181-1188",
+      "year": "2018",
+      "type": "journal",
+      "note": "doi:10.11772/j.issn.1001-9081.2017102621"
+    },
+    "crossref": {
+      "title": "提高农产品-食品贸易的透明度",
+      "authors": "",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2021",
+      "doi": "10.4060/cb7210zh",
+      "type": "edited-book",
+      "score": 65.682495
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 14,
+      "authors": "杨磊, 袁喜玲, 张智勇",
+      "title": "基于顾客满意度的鲜活农产品配送优化研究",
+      "journal": "物流技术",
+      "volume": "33",
+      "issue": "19",
+      "pages": "137-140, 147",
+      "year": "2014",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Research on Fresh E-Commerce Distribution Path Optimization Considering Customer Satisfaction and Carbon Emissions",
+      "authors": "吴, 泽林",
+      "container": "E-Commerce Letters",
+      "volume": "14",
+      "issue": "04",
+      "pages": "2293-2303",
+      "year": "2025",
+      "doi": "10.12677/ecl.2025.1441134",
+      "type": "journal-article",
+      "score": 88.01758
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 15,
+      "authors": "张中伟, 李艺, 高增恩 等",
+      "title": "基于深度强化学习的柔性作业车间节能调度研究",
+      "journal": "工业工程",
+      "volume": "27",
+      "issue": "1",
+      "pages": "78-85, 103",
+      "year": "2024",
+      "type": "journal",
+      "note": "doi:10.3969/j.issn.1007-7375.230256"
+    },
+    "crossref": {
+      "title": "基于深度学习的电力企业配网调度优化策略研究",
+      "authors": "黄自强",
+      "container": "工程与技术创新",
+      "volume": "1",
+      "issue": "8",
+      "pages": "",
+      "year": "2025",
+      "doi": "10.63887/jeti.2025.1.8.14",
+      "type": "journal-article",
+      "score": 110.451965
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 16,
+      "authors": "赵亚萍, 莫翔志, 牛奔",
+      "title": "峰值能耗下随机订单的模型预测控制",
+      "journal": "信息与控制",
+      "volume": "52",
+      "issue": "4",
+      "pages": "551-560",
+      "year": "2023",
+      "type": "journal",
+      "note": "doi:10.13976/j.cnki.xk.2023.2529"
+    },
+    "crossref": {
+      "title": "Mobile Phone Order Prediction Model",
+      "authors": "盛, 阳",
+      "container": "Advances in Applied Mathematics",
+      "volume": "09",
+      "issue": "09",
+      "pages": "1529-1533",
+      "year": "2020",
+      "doi": "10.12677/aam.2020.99179",
+      "type": "journal-article",
+      "score": 75.88204
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 17,
+      "authors": "郑斐峰, 靳凯媛, 徐寅峰 等",
+      "title": "考虑可拆分订单及加工类型匹配的平行机调度决策",
+      "journal": "运筹与管理",
+      "volume": "32",
+      "issue": "3",
+      "pages": "1-7",
+      "year": "2023",
+      "type": "journal",
+      "note": "doi:10.12005/orms.2023.0073"
+    },
+    "crossref": {
+      "title": "探析配网调度运行中的故障分析及处理策略",
+      "authors": "樊灵强",
+      "container": "机械与电子控制工程",
+      "volume": "5",
+      "issue": "12",
+      "pages": "214-216",
+      "year": "2023",
+      "doi": "10.37155/2717-5197-0512-71",
+      "type": "journal-article",
+      "score": 76.07448
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "title",
+        "标题不一致: 声称=\"考虑可拆分订单及加工类型匹配的平行机调度决策...\" vs Crossref=\"探析配网调度运行中的故障分析及处理策略...\""
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"运筹与管理\" vs Crossref=\"机械与电子控制工程\""
+      ],
+      [
+        "volume",
+        "卷: 声称=32, Crossref=5"
+      ],
+      [
+        "issue",
+        "期: 声称=3, Crossref=12"
+      ],
+      [
+        "pages",
+        "页码: 声称=1-7, Crossref=214-216"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 18,
+      "authors": "中国电力企业联合会",
+      "title": "2025-2026年度全国电力供需形势分析预测报告",
+      "journal": "中国电力企业联合会",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2026",
+      "type": "report",
+      "note": ""
+    },
+    "crossref": {
+      "title": "新形势下电力企业全面预算管理流程优化探析",
+      "authors": "路, 文聪",
+      "container": "经济学",
+      "volume": "1",
+      "issue": "4",
+      "pages": "",
+      "year": "2018",
+      "doi": "10.32629/ej.v1i4.70",
+      "type": "journal-article",
+      "score": 96.97189
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 19,
+      "authors": "周鲜成, 蒋涛营, 贺彩虹 等",
+      "title": "冷链物流配送的绿色车辆路径模型及其求解算法",
+      "journal": "中国管理科学",
+      "volume": "31",
+      "issue": "12",
+      "pages": "203-214",
+      "year": "2023",
+      "type": "journal",
+      "note": "doi:10.16381/j.cnki.issn1003-207x.2020.2152"
+    },
+    "crossref": {
+      "title": "VEHICLE PATH OPTIMIZATION OF AGRICULTURAL PRODUCTS COLD CHAIN LOGISTICS BASED ON GREEN EVALUATION",
+      "authors": "YU, Jinhui; CHENG, Lili",
+      "container": "INMATEH Agricultural Engineering",
+      "volume": "",
+      "issue": "",
+      "pages": "441-454",
+      "year": "2023",
+      "doi": "10.35633/inmateh-70-43",
+      "type": "journal-article",
+      "score": 87.42768
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "title",
+        "标题不一致: 声称=\"冷链物流配送的绿色车辆路径模型及其求解算法...\" vs Crossref=\"VEHICLE PATH OPTIMIZATION OF AGRICULTURAL PRODUCTS COLD CHAIN LOGISTICS BASED ON...\""
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"中国管理科学\" vs Crossref=\"INMATEH Agricultural Engineering\""
+      ],
+      [
+        "pages",
+        "页码: 声称=203-214, Crossref=441-454"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 20,
+      "authors": "Acevedo-Chedid J, Caro Soto M, Ospina-Mateus H et al.",
+      "title": "An Optimization Model for Routing-Location of Vehicles with Time Windows and Cross-Docking Structures in a Sustainable Supply Chain of Perishable Foods",
+      "journal": "Operations Management Research",
+      "volume": "16",
+      "issue": "4",
+      "pages": "1742-1765",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An optimization model for routing—location of vehicles with time windows and cross-docking structures in a sustainable supply chain of perishable foods",
+      "authors": "Acevedo-Chedid, Jaime; Soto, Melissa Caro; Ospina-Mateus, Holman; Salas-Navarro, Katherinne; Sana, Shib Sankar",
+      "container": "Operations Management Research",
+      "volume": "16",
+      "issue": "4",
+      "pages": "1742-1765",
+      "year": "2023",
+      "doi": "10.1007/s12063-023-00379-8",
+      "type": "journal-article",
+      "score": 81.103035
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 21,
+      "authors": "Ahmadi-Javid A, Mansourfar M, Lee C G et al.",
+      "title": "Optimal Distribution of Perishable Foods with Storage Temperature Control and Quality Requirements: An Integrated Vehicle Routing Problem",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "182",
+      "issue": "",
+      "pages": "109215",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Optimal distribution of perishable foods with storage temperature control and quality requirements: An integrated vehicle routing problem",
+      "authors": "Ahmadi-Javid, Amir; Mansourfar, Moeinoddin; Lee, Chi-Guhn; Liu, Li",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "182",
+      "issue": "",
+      "pages": "109215",
+      "year": "2023",
+      "doi": "10.1016/j.cie.2023.109215",
+      "type": "journal-article",
+      "score": 76.21292
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 22,
+      "authors": "Akbar M, Irohara T",
+      "title": "Scheduling for Sustainable Manufacturing: A Review",
+      "journal": "Journal of Cleaner Production",
+      "volume": "205",
+      "issue": "",
+      "pages": "866-883",
+      "year": "2018",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Human-aware scheduling for sustainable manufacturing: A review of dynamic job shop scheduling in the era of Industry 5.0",
+      "authors": "Hudaifah, Hudaifah; Saleh, Haitham; Alghazi, Anas; Kolus, Ahmet; Alturki, Umar et al.",
+      "container": "Robotics and Computer-Integrated Manufacturing",
+      "volume": "98",
+      "issue": "",
+      "pages": "103143",
+      "year": "2026",
+      "doi": "10.1016/j.rcim.2025.103143",
+      "type": "journal-article",
+      "score": 23.82868
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "year",
+        "年份: 声称=2018, Crossref=2026"
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"Journal of Cleaner Production\" vs Crossref=\"Robotics and Computer-Integrated Manufacturing\""
+      ],
+      [
+        "volume",
+        "卷: 声称=205, Crossref=98"
+      ],
+      [
+        "pages",
+        "页码: 声称=866-883, Crossref=103143"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 23,
+      "authors": "Alvarez A, Miranda P, Rohmer S U K",
+      "title": "Production Routing for Perishable Products",
+      "journal": "Omega",
+      "volume": "111",
+      "issue": "",
+      "pages": "102667",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Production routing for perishable products",
+      "authors": "Alvarez, Aldair; Miranda, Pedro; Rohmer, S.U.K.",
+      "container": "Omega",
+      "volume": "111",
+      "issue": "",
+      "pages": "102667",
+      "year": "2022",
+      "doi": "10.1016/j.omega.2022.102667",
+      "type": "journal-article",
+      "score": 35.503414
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 24,
+      "authors": "Amorim P, Gunther H O, Almada-Lobo B",
+      "title": "Multi-Objective Integrated Production and Distribution Planning of Perishable Products",
+      "journal": "International Journal of Production Economics",
+      "volume": "138",
+      "issue": "1",
+      "pages": "89-101",
+      "year": "2012",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Multi-objective integrated production and distribution planning of perishable products",
+      "authors": "Amorim, P.; Günther, H.-O.; Almada-Lobo, B.",
+      "container": "International Journal of Production Economics",
+      "volume": "138",
+      "issue": "1",
+      "pages": "89-101",
+      "year": "2012",
+      "doi": "10.1016/j.ijpe.2012.03.005",
+      "type": "journal-article",
+      "score": 52.11802
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 25,
+      "authors": "Belo-Filho M A F, Amorim P, Almada-Lobo B",
+      "title": "An Adaptive Large Neighbourhood Search for the Operational Integrated Production and Distribution Problem of Perishable Products",
+      "journal": "International Journal of Production Research",
+      "volume": "53",
+      "issue": "20",
+      "pages": "6040-6058",
+      "year": "2015",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An adaptive large neighbourhood search for the operational integrated production and distribution problem of perishable products",
+      "authors": "Belo-Filho, M.A.F.; Amorim, P.; Almada-Lobo, B.",
+      "container": "International Journal of Production Research",
+      "volume": "53",
+      "issue": "20",
+      "pages": "6040-6058",
+      "year": "2015",
+      "doi": "10.1080/00207543.2015.1010744",
+      "type": "journal-article",
+      "score": 67.43414
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 26,
+      "authors": "Bolsi B, de Lima V L, de Queiroz T A et al.",
+      "title": "Heuristic algorithms for integrated workforce allocation and scheduling of perishable products",
+      "journal": "International Journal of Production Research",
+      "volume": "61",
+      "issue": "20",
+      "pages": "7048-7063",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Heuristic algorithms for integrated workforce allocation and scheduling of perishable products",
+      "authors": "Bolsi, Beatrice; de Lima, Vinícius Loti; Alves de Queiroz, Thiago; Iori, Manuel",
+      "container": "International Journal of Production Research",
+      "volume": "61",
+      "issue": "20",
+      "pages": "7048-7063",
+      "year": "2023",
+      "doi": "10.1080/00207543.2022.2144525",
+      "type": "journal-article",
+      "score": 40.935318
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 27,
+      "authors": "Cai X, Chen J, Xiao Y B et al.",
+      "title": "Product selection, machine time allocation, and scheduling decisions for manufacturing perishable products subject to a deadline",
+      "journal": "Computers & Operations Research",
+      "volume": "35",
+      "issue": "5",
+      "pages": "1671-1683",
+      "year": "2008",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Product selection, machine time allocation, and scheduling decisions for manufacturing perishable products subject to a deadline",
+      "authors": "Cai, X.Q.; Chen, J.; Xiao, Y.B.; Xu, X.L.",
+      "container": "Computers &amp; Operations Research",
+      "volume": "35",
+      "issue": "5",
+      "pages": "1671-1683",
+      "year": "2008",
+      "doi": "10.1016/j.cor.2006.09.027",
+      "type": "journal-article",
+      "score": 79.2411
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Operations Research\" vs Crossref=\"Computers &amp; Operations Research\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 28,
+      "authors": "Che A, Zeng Y, Lyu K",
+      "title": "An efficient greedy insertion heuristic for energy-conscious single machine scheduling problem under time-of-use electricity tariffs",
+      "journal": "Journal of Cleaner Production",
+      "volume": "129",
+      "issue": "",
+      "pages": "565-577",
+      "year": "2016",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An efficient greedy insertion heuristic for energy-conscious single machine scheduling problem under time-of-use electricity tariffs",
+      "authors": "Che, Ada; Zeng, Yizeng; Lyu, Ke",
+      "container": "Journal of Cleaner Production",
+      "volume": "129",
+      "issue": "",
+      "pages": "565-577",
+      "year": "2016",
+      "doi": "10.1016/j.jclepro.2016.03.150",
+      "type": "journal-article",
+      "score": 89.123116
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 29,
+      "authors": "Cheng B, Xie T, Wang L et al.",
+      "title": "Deep reinforcement learning driven cost minimization for batch order scheduling in robotic mobile fulfillment systems",
+      "journal": "Expert Systems with Applications",
+      "volume": "255",
+      "issue": "",
+      "pages": "124589",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Deep reinforcement learning driven cost minimization for batch order scheduling in robotic mobile fulfillment systems",
+      "authors": "Cheng, Bayi; Xie, Tao; Wang, Lingjun; Tan, Qi; Cao, Xiongfei",
+      "container": "Expert Systems with Applications",
+      "volume": "255",
+      "issue": "",
+      "pages": "124589",
+      "year": "2024",
+      "doi": "10.1016/j.eswa.2024.124589",
+      "type": "journal-article",
+      "score": 68.97864
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 30,
+      "authors": "Ding J Y, Song S, Zhang R et al.",
+      "title": "Parallel machine scheduling under time-of-use electricity prices: New models and optimization approaches",
+      "journal": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "13",
+      "issue": "2",
+      "pages": "1138-1154",
+      "year": "2016",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
+      "authors": "Ding, Jian-Ya; Song, Shiji; Zhang, Rui; Chiong, Raymond; Wu, Cheng",
+      "container": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "13",
+      "issue": "2",
+      "pages": "1138-1154",
+      "year": "2016",
+      "doi": "10.1109/tase.2015.2495328",
+      "type": "journal-article",
+      "score": 61.03801
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 31,
+      "authors": "Dulebenets M A, Ozguven E E",
+      "title": "Vessel scheduling in liner shipping: Modeling transport of perishable assets",
+      "journal": "International Journal of Production Economics",
+      "volume": "184",
+      "issue": "",
+      "pages": "141-156",
+      "year": "2017",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Vessel scheduling in liner shipping: Modeling transport of perishable assets",
+      "authors": "Dulebenets, Maxim A.; Ozguven, Eren Erman",
+      "container": "International Journal of Production Economics",
+      "volume": "184",
+      "issue": "",
+      "pages": "141-156",
+      "year": "2017",
+      "doi": "10.1016/j.ijpe.2016.11.011",
+      "type": "journal-article",
+      "score": 64.945435
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 32,
+      "authors": "Dunstall S, Wirth A",
+      "title": "A comparison of branch-and-bound algorithms for a family scheduling problem with identical parallel machines",
+      "journal": "European Journal of Operational Research",
+      "volume": "167",
+      "issue": "2",
+      "pages": "283-296",
+      "year": "2005",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "A comparison of branch-and-bound algorithms for a family scheduling problem with identical parallel machines",
+      "authors": "Dunstall, Simon; Wirth, Andrew",
+      "container": "European Journal of Operational Research",
+      "volume": "167",
+      "issue": "2",
+      "pages": "283-296",
+      "year": "2005",
+      "doi": "10.1016/j.ejor.2004.03.022",
+      "type": "journal-article",
+      "score": 64.03552
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 33,
+      "authors": "Fang K, Uhan N A, Zhao F et al.",
+      "title": "Scheduling on a single machine under time-of-use electricity tariffs",
+      "journal": "Annals of Operations Research",
+      "volume": "238",
+      "issue": "1",
+      "pages": "199-227",
+      "year": "2016",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Scheduling on a single machine under time-of-use electricity tariffs",
+      "authors": "Fang, Kan; Uhan, Nelson A.; Zhao, Fu; Sutherland, John W.",
+      "container": "Annals of Operations Research",
+      "volume": "238",
+      "issue": "1-2",
+      "pages": "199-227",
+      "year": "2016",
+      "doi": "10.1007/s10479-015-2003-5",
+      "type": "journal-article",
+      "score": 46.967575
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "issue",
+        "期: 声称=1, Crossref=1-2"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 34,
+      "authors": "Farghadani-Chaharsooghi P, Kamranfar P, Mirzapour Al-e-Hashem M S et al.",
+      "title": "A joint production-workforce-delivery stochastic planning problem for perishable items",
+      "journal": "International Journal of Production Research",
+      "volume": "60",
+      "issue": "20",
+      "pages": "6148-6172",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "A joint production-workforce-delivery stochastic planning problem for perishable items",
+      "authors": "Farghadani-Chaharsooghi, Pedram; Kamranfar, Pooria; Mirzapour Al-e-Hashem, Mohammad Seyed; Rekik, Yacine",
+      "container": "International Journal of Production Research",
+      "volume": "60",
+      "issue": "20",
+      "pages": "6148-6172",
+      "year": "2022",
+      "doi": "10.1080/00207543.2021.1985736",
+      "type": "journal-article",
+      "score": 58.357796
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 35,
+      "authors": "Food and Agriculture Organization of the United Nations",
+      "title": "The State of Food and Agriculture 2025: Leveraging Food Systems Transformations for Food Security and Nutrition",
+      "journal": "FAO",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2025",
+      "type": "report",
+      "note": "Rome: FAO"
+    },
+    "crossref": {
+      "title": "The State of Food and Agriculture 2017: Leveraging Food Systems for Inclusive Rural Transformation",
+      "authors": "",
+      "container": "The State of Food and Agriculture",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2018",
+      "doi": "10.18356/0e621d61-en",
+      "type": "book",
+      "score": 58.46396
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "year",
+        "年份: 声称=2025, Crossref=2018"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 36,
+      "authors": "Gabel T, Riedmiller M",
+      "title": "Distributed policy search reinforcement learning for job-shop scheduling tasks",
+      "journal": "International Journal of Production Research",
+      "volume": "50",
+      "issue": "1",
+      "pages": "41-61",
+      "year": "2012",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Distributed policy search reinforcement learning for job-shop scheduling tasks",
+      "authors": "Gabel, Thomas; Riedmiller, Martin",
+      "container": "International Journal of Production Research",
+      "volume": "50",
+      "issue": "1",
+      "pages": "41-61",
+      "year": "2012",
+      "doi": "10.1080/00207543.2011.571443",
+      "type": "journal-article",
+      "score": 59.033997
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 37,
+      "authors": "Gahm C, Denz F, Dirr M et al.",
+      "title": "Energy-efficient scheduling in manufacturing companies: A review and research framework",
+      "journal": "European Journal of Operational Research",
+      "volume": "248",
+      "issue": "3",
+      "pages": "744-757",
+      "year": "2016",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Energy-efficient scheduling in manufacturing companies: A review and research framework",
+      "authors": "Gahm, Christian; Denz, Florian; Dirr, Martin; Tuma, Axel",
+      "container": "European Journal of Operational Research",
+      "volume": "248",
+      "issue": "3",
+      "pages": "744-757",
+      "year": "2016",
+      "doi": "10.1016/j.ejor.2015.07.017",
+      "type": "journal-article",
+      "score": 41.19735
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 38,
+      "authors": "Gao K, Huang Y, Sadollah A et al.",
+      "title": "A review of energy-efficient scheduling in intelligent production systems",
+      "journal": "Complex & Intelligent Systems",
+      "volume": "6",
+      "issue": "2",
+      "pages": "237-249",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "A Research Framework for Energy Efficient Distributed Flow Shop Scheduling in Intelligent Production Systems",
+      "authors": "J, Ganesh; V., Regi Kumar",
+      "container": "2025 Emerging Technologies for Intelligent Systems (ETIS)",
+      "volume": "",
+      "issue": "",
+      "pages": "1-6",
+      "year": "2025",
+      "doi": "10.1109/etis64005.2025.10961761",
+      "type": "proceedings-article",
+      "score": 36.574604
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 39,
+      "authors": "Ghorbanzadeh M, Ranjbar M",
+      "title": "Energy-aware production scheduling in the flow shop environment under sequence-dependent setup times, group scheduling and renewable energy constraints",
+      "journal": "European Journal of Operational Research",
+      "volume": "307",
+      "issue": "2",
+      "pages": "519-537",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Energy-aware production scheduling in the flow shop environment under sequence-dependent setup times, group scheduling and renewable energy constraints",
+      "authors": "Ghorbanzadeh, Masoumeh; Ranjbar, Mohammad",
+      "container": "European Journal of Operational Research",
+      "volume": "307",
+      "issue": "2",
+      "pages": "519-537",
+      "year": "2023",
+      "doi": "10.1016/j.ejor.2022.09.034",
+      "type": "journal-article",
+      "score": 101.77947
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 40,
+      "authors": "Guo X, Zhang W, Liu B",
+      "title": "Low-carbon routing for cold-chain logistics considering the time-dependent effects of traffic congestion",
+      "journal": "Transportation Research Part D: Transport and Environment",
+      "volume": "113",
+      "issue": "",
+      "pages": "103502",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Low-carbon routing for cold-chain logistics considering the time-dependent effects of traffic congestion",
+      "authors": "Guo, Xiaolong; Zhang, Wei; Liu, Bingbing",
+      "container": "Transportation Research Part D: Transport and Environment",
+      "volume": "113",
+      "issue": "",
+      "pages": "103502",
+      "year": "2022",
+      "doi": "10.1016/j.trd.2022.103502",
+      "type": "journal-article",
+      "score": 69.09969
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 41,
+      "authors": "Huang J, Xie D, Qiu Y et al.",
+      "title": "Green supply chain management: A renewable energy planning and dynamic inventory operations for perishable products",
+      "journal": "International Journal of Production Research",
+      "volume": "62",
+      "issue": "24",
+      "pages": "8924-8951",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Green supply chain management: a renewable energy planning and dynamic inventory operations for perishable products",
+      "authors": "Huang, Jingsi; Xie, Dongwei; Qiu, Yunzhe; Wang, Jianxiao; Song, Jie",
+      "container": "International Journal of Production Research",
+      "volume": "62",
+      "issue": "24",
+      "pages": "8924-8951",
+      "year": "2024",
+      "doi": "10.1080/00207543.2023.2220047",
+      "type": "journal-article",
+      "score": 57.928753
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 42,
+      "authors": "International Energy Agency",
+      "title": "Global Energy Review 2025",
+      "journal": "IEA",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2025",
+      "type": "report",
+      "note": "Paris: IEA"
+    },
+    "crossref": {
+      "title": "Global Hydrogen Review 2021",
+      "authors": "",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2021",
+      "doi": "10.1787/39351842-en",
+      "type": "book",
+      "score": 25.38947
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 43,
+      "authors": "Julien F, Magazine M",
+      "title": "Scheduling customer orders: An alternative production scheduling approach",
+      "journal": "Journal of Manufacturing and Operations Management",
+      "volume": "3",
+      "issue": "3",
+      "pages": "177-199",
+      "year": "1990",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An Approximate Dynamic Programming Approach for Multi-Period Production-Delivery Scheduling of Online Orders with Due Dates",
+      "authors": "Wang, Jie; Yang, Peng",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2023",
+      "doi": "10.2139/ssrn.4565713",
+      "type": "posted-content",
+      "score": 37.36195
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 44,
+      "authors": "Karanam M, Krishnanand L, Manupati V K et al.",
+      "title": "Optimizing perishable food products across states: A multi objective evolutionary algorithm for surplus to deficit transportation",
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "volume": "137",
+      "issue": "",
+      "pages": "109130",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Optimizing perishable food products across states: A multi objective evolutionary algorithm for surplus to deficit transportation",
+      "authors": "Karanam, Malleswari; Krishnanand, Lanka; Manupati, Vijaya Kumar; Varela, M.L.R.",
+      "container": "Engineering Applications of Artificial Intelligence",
+      "volume": "137",
+      "issue": "",
+      "pages": "109130",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2024.109130",
+      "type": "journal-article",
+      "score": 83.32378
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 45,
+      "authors": "Lejarza F, Baldea M",
+      "title": "An efficient optimization framework for tracking multiple quality attributes in supply chains of perishable products",
+      "journal": "European Journal of Operational Research",
+      "volume": "297",
+      "issue": "3",
+      "pages": "890-903",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An efficient optimization framework for tracking multiple quality attributes in supply chains of perishable products",
+      "authors": "Lejarza, Fernando; Baldea, Michael",
+      "container": "European Journal of Operational Research",
+      "volume": "297",
+      "issue": "3",
+      "pages": "890-903",
+      "year": "2022",
+      "doi": "10.1016/j.ejor.2021.04.057",
+      "type": "journal-article",
+      "score": 66.09043
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 46,
+      "authors": "Leng J, Guo J, Zhang H et al.",
+      "title": "Dual deep reinforcement learning agents-based integrated order acceptance and scheduling of mass individualized prototyping",
+      "journal": "Journal of Cleaner Production",
+      "volume": "427",
+      "issue": "",
+      "pages": "139249",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Dual deep reinforcement learning agents-based integrated order acceptance and scheduling of mass individualized prototyping",
+      "authors": "Leng, Jiewu; Guo, Jiwei; Zhang, Hu; Xu, Kailin; Qiao, Yan et al.",
+      "container": "Journal of Cleaner Production",
+      "volume": "427",
+      "issue": "",
+      "pages": "139249",
+      "year": "2023",
+      "doi": "10.1016/j.jclepro.2023.139249",
+      "type": "journal-article",
+      "score": 58.384697
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 47,
+      "authors": "Leung S C, Ng W L",
+      "title": "A Stochastic Programming Model for Production Planning of Perishable Products with Postponement",
+      "journal": "Production Planning and Control",
+      "volume": "18",
+      "issue": "3",
+      "pages": "190-202",
+      "year": "2007",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "A stochastic programming model for production planning of perishable products with postponement",
+      "authors": "Leung, Stephen C. H.; Ng, Wan-Lung",
+      "container": "Production Planning &amp; Control",
+      "volume": "18",
+      "issue": "3",
+      "pages": "190-202",
+      "year": "2007",
+      "doi": "10.1080/09537280601009047",
+      "type": "journal-article",
+      "score": 59.899364
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Production Planning and Control\" vs Crossref=\"Production Planning &amp; Control\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 48,
+      "authors": "Li C, Lin L, Qiu X et al.",
+      "title": "Evolutionary Experience-Guided Deep Reinforcement Learning for Job Shop Scheduling with AGV Transportation Constraints in Flexible Manufacturing System",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "209",
+      "issue": "",
+      "pages": "111465",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Evolutionary experience-guided deep reinforcement learning for job shop scheduling with AGV transportation constraints in flexible manufacturing system",
+      "authors": "Li, Chen; Lin, Lin; Qiu, Xuze; Zhao, Xiyan; Zhang, Wenqiang et al.",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "209",
+      "issue": "",
+      "pages": "111465",
+      "year": "2025",
+      "doi": "10.1016/j.cie.2025.111465",
+      "type": "journal-article",
+      "score": 90.555046
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 49,
+      "authors": "Li H, Li Z, Zhao Y et al.",
+      "title": "Scheduling Customer Orders on Unrelated Parallel Machines to Minimise Total Weighted Completion Time",
+      "journal": "Journal of the Operational Research Society",
+      "volume": "72",
+      "issue": "8",
+      "pages": "1726-1736",
+      "year": "2021",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Scheduling customer orders on unrelated parallel machines to minimise total weighted completion time",
+      "authors": "Li, Haidong; Li, Zhen; Zhao, Yaping; Xu, Xiaoyun",
+      "container": "Journal of the Operational Research Society",
+      "volume": "72",
+      "issue": "8",
+      "pages": "1726-1736",
+      "year": "2021",
+      "doi": "10.1080/01605682.2020.1718010",
+      "type": "journal-article",
+      "score": 65.82897
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 50,
+      "authors": "Li Y, Chu F, Cote J F et al.",
+      "title": "The Multi-Plant Perishable Food Production Routing with Packaging Consideration",
+      "journal": "International Journal of Production Economics",
+      "volume": "221",
+      "issue": "",
+      "pages": "107472",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "The multi-plant perishable food production routing with packaging consideration",
+      "authors": "Li, Yantong; Chu, Feng; Côté, Jean-François; Coelho, Leandro C.; Chu, Chengbin",
+      "container": "International Journal of Production Economics",
+      "volume": "221",
+      "issue": "",
+      "pages": "107472",
+      "year": "2020",
+      "doi": "10.1016/j.ijpe.2019.08.007",
+      "type": "journal-article",
+      "score": 37.28219
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 51,
+      "authors": "Li Y, Wang Q, Li X et al.",
+      "title": "Real-Time Scheduling for Flexible Job Shop With AGVs Using Multiagent Reinforcement Learning and Efficient Action Decoding",
+      "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "volume": "55",
+      "issue": "3",
+      "pages": "2120-2132",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Real-Time Scheduling for Flexible Job Shop With AGVs Using Multiagent Reinforcement Learning and Efficient Action Decoding",
+      "authors": "Li, Yuxin; Wang, Qingzheng; Li, Xinyu; Gao, Liang; Fu, Ling et al.",
+      "container": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "volume": "55",
+      "issue": "3",
+      "pages": "2120-2132",
+      "year": "2025",
+      "doi": "10.1109/tsmc.2024.3520381",
+      "type": "journal-article",
+      "score": 61.91676
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 52,
+      "authors": "Liang X, Wang N, Zhang M et al.",
+      "title": "Bi-Objective Multi-Period Vehicle Routing for Perishable Goods Delivery Considering Customer Satisfaction",
+      "journal": "Expert Systems with Applications",
+      "volume": "220",
+      "issue": "",
+      "pages": "119712",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Bi-objective multi-period vehicle routing for perishable goods delivery considering customer satisfaction",
+      "authors": "Liang, Xinyue; Wang, Nengmin; Zhang, Meng; Jiang, Bin",
+      "container": "Expert Systems with Applications",
+      "volume": "220",
+      "issue": "",
+      "pages": "119712",
+      "year": "2023",
+      "doi": "10.1016/j.eswa.2023.119712",
+      "type": "journal-article",
+      "score": 85.12514
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 53,
+      "authors": "Lin N, Kanellopoulos A, Akkerman R et al.",
+      "title": "Vehicle Routing in Precooling Logistics with Dynamic Temperature-Dependent Product Quality Decay",
+      "journal": "European Journal of Operational Research",
+      "volume": "321",
+      "issue": "2",
+      "pages": "407-427",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Vehicle routing in precooling logistics with dynamic temperature-dependent product quality decay",
+      "authors": "Lin, Na; Kanellopoulos, Argyris; Akkerman, Renzo; Zhang, Jianghua; Ruan, Junhu",
+      "container": "European Journal of Operational Research",
+      "volume": "321",
+      "issue": "2",
+      "pages": "407-427",
+      "year": "2025",
+      "doi": "10.1016/j.ejor.2024.09.041",
+      "type": "journal-article",
+      "score": 55.7533
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 54,
+      "authors": "Liu L, Liu S",
+      "title": "Integrated Production and Distribution Problem of Perishable Products with a Minimum Total Order Weighted Delivery Time",
+      "journal": "Mathematics",
+      "volume": "8",
+      "issue": "2",
+      "pages": "146",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Integrated Production and Distribution Problem of Perishable Products with a Minimum Total Order Weighted Delivery Time",
+      "authors": "Liu, Ling; Liu, Sen",
+      "container": "Mathematics",
+      "volume": "8",
+      "issue": "2",
+      "pages": "146",
+      "year": "2020",
+      "doi": "10.3390/math8020146",
+      "type": "journal-article",
+      "score": 60.88438
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 55,
+      "authors": "Liu Y, Dong H, Lohse N et al.",
+      "title": "An Investigation into Minimising Total Energy Consumption and Total Weighted Tardiness in Job Shops",
+      "journal": "Journal of Cleaner Production",
+      "volume": "65",
+      "issue": "",
+      "pages": "87-96",
+      "year": "2014",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An investigation into minimising total energy consumption and total weighted tardiness in job shops",
+      "authors": "Liu, Ying; Dong, Haibo; Lohse, Niels; Petrovic, Sanja; Gindy, Nabil",
+      "container": "Journal of Cleaner Production",
+      "volume": "65",
+      "issue": "",
+      "pages": "87-96",
+      "year": "2014",
+      "doi": "10.1016/j.jclepro.2013.07.060",
+      "type": "journal-article",
+      "score": 75.85882
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 56,
+      "authors": "Luo S",
+      "title": "Dynamic Scheduling for Flexible Job Shop with New Job Insertions by Deep Reinforcement Learning",
+      "journal": "Applied Soft Computing",
+      "volume": "91",
+      "issue": "",
+      "pages": "106208",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Dynamic scheduling for flexible job shop with new job insertions by deep reinforcement learning",
+      "authors": "Luo, Shu",
+      "container": "Applied Soft Computing",
+      "volume": "91",
+      "issue": "",
+      "pages": "106208",
+      "year": "2020",
+      "doi": "10.1016/j.asoc.2020.106208",
+      "type": "journal-article",
+      "score": 73.710556
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 57,
+      "authors": "Lutke Entrup M, Gunther H O, Van Beek P et al.",
+      "title": "Mixed-Integer Linear Programming Approaches to Shelf-Life-Integrated Planning and Scheduling in Yoghurt Production",
+      "journal": "International Journal of Production Research",
+      "volume": "43",
+      "issue": "23",
+      "pages": "5071-5100",
+      "year": "2005",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Mixed-Integer Linear Programming approaches to shelf-life-integrated planning and scheduling in yoghurt production",
+      "authors": "Lütke entrup, M.; Günther, H.-O.; Van Beek, P.; Grunow, M.; Seiler, T.",
+      "container": "International Journal of Production Research",
+      "volume": "43",
+      "issue": "23",
+      "pages": "5071-5100",
+      "year": "2005",
+      "doi": "10.1080/00207540500161068",
+      "type": "journal-article",
+      "score": 71.02563
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 58,
+      "authors": "Mason A N, Villalobos J R",
+      "title": "Coordination of Perishable Crop Production Using Auction Mechanisms",
+      "journal": "Agricultural Systems",
+      "volume": "138",
+      "issue": "",
+      "pages": "18-30",
+      "year": "2015",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Coordination of perishable crop production using auction mechanisms",
+      "authors": "Mason, A. Nicholas; Villalobos, J. Rene",
+      "container": "Agricultural Systems",
+      "volume": "138",
+      "issue": "",
+      "pages": "18-30",
+      "year": "2015",
+      "doi": "10.1016/j.agsy.2015.04.008",
+      "type": "journal-article",
+      "score": 53.98522
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 59,
+      "authors": "Meneghetti A, Ceschia S",
+      "title": "Energy-Efficient Frozen Food Transports: The Refrigerated Routing Problem",
+      "journal": "International Journal of Production Research",
+      "volume": "58",
+      "issue": "14",
+      "pages": "4164-4181",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Energy-efficient frozen food transports: the Refrigerated Routing Problem",
+      "authors": "Meneghetti, Antonella; Ceschia, Sara",
+      "container": "International Journal of Production Research",
+      "volume": "58",
+      "issue": "14",
+      "pages": "4164-4181",
+      "year": "2020",
+      "doi": "10.1080/00207543.2019.1640407",
+      "type": "journal-article",
+      "score": 56.684853
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 60,
+      "authors": "Meng L, Zhang C, Shao X et al.",
+      "title": "MILP Models for Energy-Aware Flexible Job Shop Scheduling Problem",
+      "journal": "Journal of Cleaner Production",
+      "volume": "210",
+      "issue": "",
+      "pages": "710-723",
+      "year": "2019",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Energy-aware flexible job shop scheduling problem and preventive maintenance under the limited resource constraints",
+      "authors": "Mirahmadi, Nasim",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2022",
+      "doi": "10.32920/19780162.v1",
+      "type": "posted-content",
+      "score": 57.913086
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "year",
+        "年份: 声称=2019, Crossref=2022"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 61,
+      "authors": "Mnih V, Kavukcuoglu K, Silver D et al.",
+      "title": "Human-Level Control Through Deep Reinforcement Learning",
+      "journal": "Nature",
+      "volume": "518",
+      "issue": "7540",
+      "pages": "529-533",
+      "year": "2015",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Faculty Opinions recommendation of Human-level control through deep reinforcement learning.",
+      "authors": "Goodhill, Geoffrey",
+      "container": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2015",
+      "doi": "10.3410/f.725368782.793506817",
+      "type": "dataset",
+      "score": 40.291386
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Nature\" vs Crossref=\"Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 62,
+      "authors": "Mokotoff E",
+      "title": "An Exact Algorithm for the Identical Parallel Machine Scheduling Problem",
+      "journal": "European Journal of Operational Research",
+      "volume": "152",
+      "issue": "3",
+      "pages": "758-769",
+      "year": "2004",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An exact algorithm for the identical parallel machine scheduling problem",
+      "authors": "Mokotoff, Ethel",
+      "container": "European Journal of Operational Research",
+      "volume": "152",
+      "issue": "3",
+      "pages": "758-769",
+      "year": "2004",
+      "doi": "10.1016/s0377-2217(02)00726-9",
+      "type": "journal-article",
+      "score": 49.32897
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 63,
+      "authors": "Mousavi R, Bashiri M, Nikzad E",
+      "title": "Stochastic Production Routing Problem for Perishable Products: Modeling and a Solution Algorithm",
+      "journal": "Computers & Operations Research",
+      "volume": "142",
+      "issue": "",
+      "pages": "105725",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Stochastic production routing problem for perishable products: Modeling and a solution algorithm",
+      "authors": "Mousavi, Razieh; Bashiri, Mahdi; Nikzad, Erfaneh",
+      "container": "Computers &amp; Operations Research",
+      "volume": "142",
+      "issue": "",
+      "pages": "105725",
+      "year": "2022",
+      "doi": "10.1016/j.cor.2022.105725",
+      "type": "journal-article",
+      "score": 59.670166
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Operations Research\" vs Crossref=\"Computers &amp; Operations Research\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 64,
+      "authors": "Mouzon G, Yildirim M B, Twomey J",
+      "title": "Operational Methods for Minimization of Energy Consumption of Manufacturing Equipment",
+      "journal": "International Journal of Production Research",
+      "volume": "45",
+      "issue": "18-19",
+      "pages": "4247-4271",
+      "year": "2007",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Operational methods for minimization of energy consumption of manufacturing equipment",
+      "authors": "Mouzon, Gilles; Yildirim, Mehmet B.; Twomey, Janet",
+      "container": "International Journal of Production Research",
+      "volume": "45",
+      "issue": "18-19",
+      "pages": "4247-4271",
+      "year": "2007",
+      "doi": "10.1080/00207540701450013",
+      "type": "journal-article",
+      "score": 41.43073
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 65,
+      "authors": "Osorio-Castaneda C D, Orejuela-Cabrera J P, Bravo-Bastidas J J",
+      "title": "Refrigerated Electric Vehicle Routing Considering Time-Dependent Temperature Energy Consumption Models",
+      "journal": "Annals of Operations Research",
+      "volume": "349",
+      "issue": "3",
+      "pages": "1817-1854",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Refrigerated electric vehicle routing considering time-dependent temperature energy consumption models",
+      "authors": "Osorio-Castañeda, Cesar David; Orejuela-Cabrera, Juan Pablo; Bravo-Bastidas, Juan José",
+      "container": "Annals of Operations Research",
+      "volume": "349",
+      "issue": "3",
+      "pages": "1817-1854",
+      "year": "2025",
+      "doi": "10.1007/s10479-025-06579-8",
+      "type": "journal-article",
+      "score": 62.71844
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 66,
+      "authors": "Parikh J K",
+      "title": "From Farm Gate to Food Plate: Energy in Post-Harvest Food Systems in South Asia",
+      "journal": "Energy Policy",
+      "volume": "14",
+      "issue": "4",
+      "pages": "363-372",
+      "year": "1986",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "From farm gate to food plate",
+      "authors": "Parikh, Jyoti K.",
+      "container": "Energy Policy",
+      "volume": "14",
+      "issue": "4",
+      "pages": "363-372",
+      "year": "1986",
+      "doi": "10.1016/0301-4215(86)90110-2",
+      "type": "journal-article",
+      "score": 47.200527
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 67,
+      "authors": "Polotski V, Gharbi A, Kenne J P",
+      "title": "Production Control in Manufacturing Systems with Perishable Products Under Periodic Demand",
+      "journal": "Journal of Manufacturing Systems",
+      "volume": "63",
+      "issue": "",
+      "pages": "288-303",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Production control in manufacturing systems with perishable products under periodic demand",
+      "authors": "Polotski, V.; Gharbi, A.; Kenne, J.-P.",
+      "container": "Journal of Manufacturing Systems",
+      "volume": "63",
+      "issue": "",
+      "pages": "288-303",
+      "year": "2022",
+      "doi": "10.1016/j.jmsy.2022.03.013",
+      "type": "journal-article",
+      "score": 60.669014
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 68,
+      "authors": "Qiu Y, Qiao J, Pardalos P M",
+      "title": "Optimal Production, Replenishment, Delivery, Routing and Inventory Management Policies for Products with Perishable Inventory",
+      "journal": "Omega",
+      "volume": "82",
+      "issue": "",
+      "pages": "193-204",
+      "year": "2019",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Optimal production, replenishment, delivery, routing and inventory management policies for products with perishable inventory",
+      "authors": "Qiu, Yuzhuo; Qiao, Jun; Pardalos, Panos M.",
+      "container": "Omega",
+      "volume": "82",
+      "issue": "",
+      "pages": "193-204",
+      "year": "2019",
+      "doi": "10.1016/j.omega.2018.01.006",
+      "type": "journal-article",
+      "score": 68.92335
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 69,
+      "authors": "Shirvani N, Ruiz R, Shadrokh S",
+      "title": "Cyclic Scheduling of Perishable Products in Parallel Machine with Release Dates, Due Dates and Deadlines",
+      "journal": "International Journal of Production Economics",
+      "volume": "156",
+      "issue": "",
+      "pages": "1-12",
+      "year": "2014",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Cyclic scheduling of perishable products in parallel machine with release dates, due dates and deadlines",
+      "authors": "Shirvani, Nargess; Ruiz, Rubén; Shadrokh, Shahram",
+      "container": "International Journal of Production Economics",
+      "volume": "156",
+      "issue": "",
+      "pages": "1-12",
+      "year": "2014",
+      "doi": "10.1016/j.ijpe.2014.04.013",
+      "type": "journal-article",
+      "score": 73.20796
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 70,
+      "authors": "Sinha A K, Anand A",
+      "title": "Optimizing Supply Chain Network for Perishable Products Using Improved Bacteria Foraging Algorithm",
+      "journal": "Applied Soft Computing",
+      "volume": "86",
+      "issue": "",
+      "pages": "105921",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Optimizing supply chain network for perishable products using improved bacteria foraging algorithm",
+      "authors": "Sinha, Amit Kumar; Anand, Ankush",
+      "container": "Applied Soft Computing",
+      "volume": "86",
+      "issue": "",
+      "pages": "105921",
+      "year": "2020",
+      "doi": "10.1016/j.asoc.2019.105921",
+      "type": "journal-article",
+      "score": 76.79236
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 71,
+      "authors": "Sun H, Sun S, Zhou Y et al.",
+      "title": "Trade-Offs Between Economic and Environmental Goals of Production-Inventory-Routing Problem for Multiple Perishable Products",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "178",
+      "issue": "",
+      "pages": "109133",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Trade-offs between economic and environmental goals of production-inventory-routing problem for multiple perishable products",
+      "authors": "Sun, Huali; Sun, Suning; Zhou, Yi; Xue, Yaofeng",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "178",
+      "issue": "",
+      "pages": "109133",
+      "year": "2023",
+      "doi": "10.1016/j.cie.2023.109133",
+      "type": "journal-article",
+      "score": 66.12008
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 72,
+      "authors": "Sutton R S, Barto A G",
+      "title": "Reinforcement Learning: An Introduction",
+      "journal": "MIT Press",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2018",
+      "type": "book",
+      "note": "Cambridge: MIT Press"
+    },
+    "crossref": {
+      "title": "Introduction: The Challenge of Reinforcement Learning",
+      "authors": "Sutton, Richard S.",
+      "container": "Reinforcement Learning",
+      "volume": "",
+      "issue": "",
+      "pages": "1-3",
+      "year": "1992",
+      "doi": "10.1007/978-1-4615-3618-5_1",
+      "type": "book-chapter",
+      "score": 24.709911
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 73,
+      "authors": "Torkaman S, Jokar M R A, Mutlu N et al.",
+      "title": "Rolling Horizon-Based Heuristics for Solving a Production-Routing Problem with Price-Dependent Demand",
+      "journal": "Computers & Operations Research",
+      "volume": "148",
+      "issue": "",
+      "pages": "105973",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Rolling horizon-based heuristics for solving a production-routing problem with price-dependent demand",
+      "authors": "Torkaman, Somayeh; Akbari Jokar, Mohammad Reza; Mutlu, Nevin; Van Woensel, Tom",
+      "container": "Computers &amp; Operations Research",
+      "volume": "148",
+      "issue": "",
+      "pages": "105973",
+      "year": "2022",
+      "doi": "10.1016/j.cor.2022.105973",
+      "type": "journal-article",
+      "score": 67.81313
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Operations Research\" vs Crossref=\"Computers &amp; Operations Research\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 74,
+      "authors": "Umutoni L, Samadi V",
+      "title": "Application of Machine Learning Approaches in Supporting Irrigation Decision Making: A Review",
+      "journal": "Agricultural Water Management",
+      "volume": "294",
+      "issue": "",
+      "pages": "108710",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Application of machine learning approaches in supporting irrigation decision making: A review",
+      "authors": "Umutoni, Lisa; Samadi, Vidya",
+      "container": "Agricultural Water Management",
+      "volume": "294",
+      "issue": "",
+      "pages": "108710",
+      "year": "2024",
+      "doi": "10.1016/j.agwat.2024.108710",
+      "type": "journal-article",
+      "score": 52.617607
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 75,
+      "authors": "Wang G, Cheng T C E",
+      "title": "Customer Order Scheduling to Minimize Total Weighted Completion Time",
+      "journal": "Omega",
+      "volume": "35",
+      "issue": "5",
+      "pages": "623-626",
+      "year": "2007",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Customer order scheduling to minimize total weighted completion time",
+      "authors": "Wang, Guoqing; Cheng, T.C. Edwin",
+      "container": "Omega",
+      "volume": "35",
+      "issue": "5",
+      "pages": "623-626",
+      "year": "2007",
+      "doi": "10.1016/j.omega.2005.09.007",
+      "type": "journal-article",
+      "score": 63.798897
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 76,
+      "authors": "Wang G",
+      "title": "Order Assignment and Two-Stage Integrated Scheduling in Fruit and Vegetable Supply Chains",
+      "journal": "Omega",
+      "volume": "124",
+      "issue": "",
+      "pages": "103013",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Order assignment and two-stage integrated scheduling in fruit and vegetable supply chains",
+      "authors": "Wang, Gang",
+      "container": "Omega",
+      "volume": "124",
+      "issue": "",
+      "pages": "103013",
+      "year": "2024",
+      "doi": "10.1016/j.omega.2023.103013",
+      "type": "journal-article",
+      "score": 76.21997
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 77,
+      "authors": "Wang H, Zhan S L, Ng C T et al.",
+      "title": "Coordinating Quality, Time, and Carbon Emissions in Perishable Food Production: A New Technology Integrating GERT and the Bayesian Approach",
+      "journal": "International Journal of Production Economics",
+      "volume": "225",
+      "issue": "",
+      "pages": "107570",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Coordinating quality, time, and carbon emissions in perishable food production: A new technology integrating GERT and the Bayesian approach",
+      "authors": "Wang, Haiyan; Zhan, Sha-lei; Ng, Chi To; Cheng, T.C.E.",
+      "container": "International Journal of Production Economics",
+      "volume": "225",
+      "issue": "",
+      "pages": "107570",
+      "year": "2020",
+      "doi": "10.1016/j.ijpe.2019.107570",
+      "type": "journal-article",
+      "score": 71.70472
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 78,
+      "authors": "Wang S, Wu R, Chu F et al.",
+      "title": "An Exact Decomposition Method for Unrelated Parallel Machine Scheduling with Order Acceptance and Setup Times",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "176",
+      "issue": "",
+      "pages": "108899",
+      "year": "2023",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An exact decomposition method for unrelated parallel machine scheduling with order acceptance and setup times",
+      "authors": "Wang, Shijin; Wu, Ruochen; Chu, Feng; Yu, Jianbo",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "175",
+      "issue": "",
+      "pages": "108899",
+      "year": "2023",
+      "doi": "10.1016/j.cie.2022.108899",
+      "type": "journal-article",
+      "score": 65.08318
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ],
+      [
+        "volume",
+        "卷: 声称=176, Crossref=175"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 79,
+      "authors": "Wang Y C, Usher J M",
+      "title": "Learning Policies for Single Machine Job Dispatching",
+      "journal": "Robotics and Computer-Integrated Manufacturing",
+      "volume": "20",
+      "issue": "6",
+      "pages": "553-562",
+      "year": "2004",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Learning policies for single machine job dispatching",
+      "authors": "Wang, Yi-Chi; Usher, John M.",
+      "container": "Robotics and Computer-Integrated Manufacturing",
+      "volume": "20",
+      "issue": "6",
+      "pages": "553-562",
+      "year": "2004",
+      "doi": "10.1016/j.rcim.2004.07.003",
+      "type": "journal-article",
+      "score": 40.463737
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 80,
+      "authors": "Wang Z, Zhang F, Ma S et al.",
+      "title": "Research on Collaborative Scheduling Strategies of Multi-Agent Agricultural Machinery Groups",
+      "journal": "Scientific Reports",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9045",
+      "year": "2025",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Research on collaborative scheduling strategies of multi-agent agricultural machinery groups",
+      "authors": "Wang, Ziyi; Zhang, Fan; Ma, Shiji; Wang, Hailong; Zhang, Shunyao et al.",
+      "container": "Scientific Reports",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9045",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-93848-y",
+      "type": "journal-article",
+      "score": 38.79669
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 81,
+      "authors": "Waschneck B, Reichstaller A, Belzner L et al.",
+      "title": "Optimization of Global Production Scheduling with Deep Reinforcement Learning",
+      "journal": "Procedia CIRP",
+      "volume": "72",
+      "issue": "",
+      "pages": "1264-1269",
+      "year": "2018",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Integrated Optimization of Production Scheduling and Maintenance in Flexible Multi-Variable-Route System via Deep Reinforcement Learning",
+      "authors": "Xiao, Lei; Zhang, Biyue; Gao, Shaofeng",
+      "container": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": "2026",
+      "doi": "10.2139/ssrn.6082869",
+      "type": "posted-content",
+      "score": 38.62006
+    },
+    "status": "LOW_MATCH",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 82,
+      "authors": "Wu F, Guan Z, Whitaker V",
+      "title": "Optimizing Yield Distribution Under Biological and Economic Constraints: Florida Strawberries as a Model for Perishable Commodities",
+      "journal": "Agricultural Systems",
+      "volume": "141",
+      "issue": "",
+      "pages": "113-120",
+      "year": "2015",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Optimizing yield distribution under biological and economic constraints: Florida strawberries as a model for perishable commodities",
+      "authors": "Wu, Feng; Guan, Zhengfei; Whitaker, Vance",
+      "container": "Agricultural Systems",
+      "volume": "141",
+      "issue": "",
+      "pages": "113-120",
+      "year": "2015",
+      "doi": "10.1016/j.agsy.2015.10.002",
+      "type": "journal-article",
+      "score": 84.87808
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 83,
+      "authors": "Wu X, Yan X, Guan D et al.",
+      "title": "A Deep Reinforcement Learning Model for Dynamic Job-Shop Scheduling Problem with Uncertain Processing Time",
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "volume": "131",
+      "issue": "",
+      "pages": "107790",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "A deep reinforcement learning model for dynamic job-shop scheduling problem with uncertain processing time",
+      "authors": "Wu, Xinquan; Yan, Xuefeng; Guan, Donghai; Wei, Mingqiang",
+      "container": "Engineering Applications of Artificial Intelligence",
+      "volume": "131",
+      "issue": "",
+      "pages": "107790",
+      "year": "2024",
+      "doi": "10.1016/j.engappai.2023.107790",
+      "type": "journal-article",
+      "score": 66.974174
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 84,
+      "authors": "Xu X, Ma Y, Zhou Z et al.",
+      "title": "Customer Order Scheduling on Unrelated Parallel Machines to Minimize Total Completion Time",
+      "journal": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "12",
+      "issue": "1",
+      "pages": "244-257",
+      "year": "2015",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Customer Order Scheduling on Unrelated Parallel Machines to Minimize Total Completion Time",
+      "authors": "Xu, Xiaoyun; Ma, Ying; Zhou, Zihuan; Zhao, Yaping",
+      "container": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "12",
+      "issue": "1",
+      "pages": "244-257",
+      "year": "2015",
+      "doi": "10.1109/tase.2013.2291899",
+      "type": "journal-article",
+      "score": 68.422134
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 85,
+      "authors": "Yan Y, Chow A H F, Ho C P et al.",
+      "title": "Reinforcement Learning for Logistics and Supply Chain Management: Methodologies, State of the Art, and Future Opportunities",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "volume": "162",
+      "issue": "",
+      "pages": "102712",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Reinforcement learning for logistics and supply chain management: Methodologies, state of the art, and future opportunities",
+      "authors": "Yan, Yimo; Chow, Andy H.F.; Ho, Chin Pang; Kuo, Yong-Hong; Wu, Qihao et al.",
+      "container": "Transportation Research Part E: Logistics and Transportation Review",
+      "volume": "162",
+      "issue": "",
+      "pages": "102712",
+      "year": "2022",
+      "doi": "10.1016/j.tre.2022.102712",
+      "type": "journal-article",
+      "score": 57.799046
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 86,
+      "authors": "Yang J",
+      "title": "The Complexity of Customer Order Scheduling Problems on Parallel Machines",
+      "journal": "Computers & Operations Research",
+      "volume": "32",
+      "issue": "7",
+      "pages": "1921-1939",
+      "year": "2005",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "The complexity of customer order scheduling problems on parallel machines",
+      "authors": "Yang, Jaehwan",
+      "container": "Computers &amp; Operations Research",
+      "volume": "32",
+      "issue": "7",
+      "pages": "1921-1939",
+      "year": "2005",
+      "doi": "10.1016/j.cor.2003.12.008",
+      "type": "journal-article",
+      "score": 50.18705
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Operations Research\" vs Crossref=\"Computers &amp; Operations Research\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 87,
+      "authors": "Yang Y, Hu J, Porter D et al.",
+      "title": "Deep Reinforcement Learning-Based Irrigation Scheduling",
+      "journal": "Transactions of the ASABE",
+      "volume": "63",
+      "issue": "3",
+      "pages": "549-556",
+      "year": "2020",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Production Scheduling based on Deep Reinforcement Learning using Graph Convolutional Neural Network",
+      "authors": "Seito, Takanari; Munakata, Satoshi",
+      "container": "Proceedings of the 12th International Conference on Agents and Artificial Intelligence",
+      "volume": "",
+      "issue": "",
+      "pages": "766-772",
+      "year": "2020",
+      "doi": "10.5220/0009095207660772",
+      "type": "proceedings-article",
+      "score": 35.514183
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "title",
+        "标题不一致: 声称=\"Deep Reinforcement Learning-Based Irrigation Scheduling...\" vs Crossref=\"Production Scheduling based on Deep Reinforcement Learning using Graph Convoluti...\""
+      ],
+      [
+        "journal",
+        "期刊: 声称=\"Transactions of the ASABE\" vs Crossref=\"Proceedings of the 12th International Conference on Agents and Artificial Intelligence\""
+      ],
+      [
+        "pages",
+        "页码: 声称=549-556, Crossref=766-772"
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 88,
+      "authors": "Yuan B, Jiang Z, Wang L",
+      "title": "Dynamic Parallel Machine Scheduling with Random Breakdowns Using the Learning Agent",
+      "journal": "International Journal of Services Operations and Informatics",
+      "volume": "8",
+      "issue": "2",
+      "pages": "94-103",
+      "year": "2016",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Dynamic parallel machine scheduling with random breakdowns using the learning agent",
+      "authors": "Yuan, Biao; Jiang, Zhibin; Wang, Lei",
+      "container": "International Journal of Services Operations and Informatics",
+      "volume": "8",
+      "issue": "2",
+      "pages": "94",
+      "year": "2016",
+      "doi": "10.1504/ijsoi.2016.080083",
+      "type": "journal-article",
+      "score": 57.94638
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 89,
+      "authors": "Zanoni S, Zavanella L",
+      "title": "Chilled or Frozen? Decision Strategies for Sustainable Food Supply Chains",
+      "journal": "International Journal of Production Economics",
+      "volume": "140",
+      "issue": "2",
+      "pages": "731-736",
+      "year": "2012",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Chilled or frozen? Decision strategies for sustainable food supply chains",
+      "authors": "Zanoni, Simone; Zavanella, Lucio",
+      "container": "International Journal of Production Economics",
+      "volume": "140",
+      "issue": "2",
+      "pages": "731-736",
+      "year": "2012",
+      "doi": "10.1016/j.ijpe.2011.04.028",
+      "type": "journal-article",
+      "score": 54.157074
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 90,
+      "authors": "Zhao Y, Kong X, Xu X et al.",
+      "title": "Resource-Controlled Stochastic Customer Order Scheduling via Particle Swarm Optimization with Bound Information",
+      "journal": "Industrial Management & Data Systems",
+      "volume": "122",
+      "issue": "8",
+      "pages": "1882-1908",
+      "year": "2022",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Resource-controlled stochastic customer order scheduling via particle swarm optimization with bound information",
+      "authors": "Zhao, Yaping; Kong, Xiangtianrui; Xu, Xiaoyun; Xu, Endong",
+      "container": "Industrial Management &amp; Data Systems",
+      "volume": "122",
+      "issue": "8",
+      "pages": "1882-1908",
+      "year": "2022",
+      "doi": "10.1108/imds-02-2022-0105",
+      "type": "journal-article",
+      "score": 70.59066
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 91,
+      "authors": "Zhao Y, Ma S, Mo X et al.",
+      "title": "Data-Driven Optimization for Energy-Constrained Dietary Supplement Scheduling: A Bounded Cut MP-DQN Approach",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "188",
+      "issue": "",
+      "pages": "109894",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Data-driven optimization for energy-constrained dietary supplement scheduling: A bounded cut MP-DQN approach",
+      "authors": "Zhao, Yaping; Ma, Siqi; Mo, Xiangzhi; Xu, Xiaoyun",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "188",
+      "issue": "",
+      "pages": "109894",
+      "year": "2024",
+      "doi": "10.1016/j.cie.2024.109894",
+      "type": "journal-article",
+      "score": 85.69503
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 92,
+      "authors": "Zhao Y, Xu X, Li H et al.",
+      "title": "Stochastic Customer Order Scheduling with Setup Times to Minimize Expected Cycle Time",
+      "journal": "International Journal of Production Research",
+      "volume": "56",
+      "issue": "7",
+      "pages": "2684-2706",
+      "year": "2018",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Stochastic customer order scheduling with setup times to minimize expected cycle time",
+      "authors": "Zhao, Yaping; Xu, Xiaoyun; Li, Haidong; Liu, Yanni",
+      "container": "International Journal of Production Research",
+      "volume": "56",
+      "issue": "7",
+      "pages": "2684-2706",
+      "year": "2018",
+      "doi": "10.1080/00207543.2017.1381348",
+      "type": "journal-article",
+      "score": 59.137455
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 93,
+      "authors": "Zhao Y, Xu X, Li H",
+      "title": "Inventory-Constrained Throughput Optimization for Stochastic Customer Orders",
+      "journal": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "16",
+      "issue": "3",
+      "pages": "1218-1231",
+      "year": "2019",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Inventory-Constrained Throughput Optimization for Stochastic Customer Orders",
+      "authors": "Zhao, Yaping; Xu, Xiaoyun; Li, Haidong",
+      "container": "IEEE Transactions on Automation Science and Engineering",
+      "volume": "16",
+      "issue": "3",
+      "pages": "1218-1231",
+      "year": "2019",
+      "doi": "10.1109/tase.2018.2884618",
+      "type": "journal-article",
+      "score": 47.39035
+    },
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "ref": {
+      "id": 94,
+      "authors": "Zhao Y, Xu X, Xu E et al.",
+      "title": "Stochastic Customer Order Scheduling on Heterogeneous Parallel Machines with Resource Allocation Consideration",
+      "journal": "Computers & Industrial Engineering",
+      "volume": "160",
+      "issue": "",
+      "pages": "107539",
+      "year": "2021",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "Stochastic customer order scheduling on heterogeneous parallel machines with resource allocation consideration",
+      "authors": "Zhao, Yaping; Xu, Xiaoyun; Xu, Endong; Niu, Ben",
+      "container": "Computers &amp; Industrial Engineering",
+      "volume": "160",
+      "issue": "",
+      "pages": "107539",
+      "year": "2021",
+      "doi": "10.1016/j.cie.2021.107539",
+      "type": "journal-article",
+      "score": 65.738205
+    },
+    "status": "ISSUES",
+    "issues": [
+      [
+        "journal",
+        "期刊: 声称=\"Computers & Industrial Engineering\" vs Crossref=\"Computers &amp; Industrial Engineering\""
+      ]
+    ]
+  },
+  {
+    "ref": {
+      "id": 95,
+      "authors": "Zipfel B, Neufeld J, Buscher U",
+      "title": "An Iterated Local Search for Customer Order Scheduling in Additive Manufacturing",
+      "journal": "International Journal of Production Research",
+      "volume": "62",
+      "issue": "3",
+      "pages": "605-625",
+      "year": "2024",
+      "type": "journal",
+      "note": ""
+    },
+    "crossref": {
+      "title": "An iterated local search for customer order scheduling in additive manufacturing",
+      "authors": "Zipfel, Benedikt; Neufeld, Janis; Buscher, Udo",
+      "container": "International Journal of Production Research",
+      "volume": "62",
+      "issue": "3",
+      "pages": "605-625",
+      "year": "2024",
+      "doi": "10.1080/00207543.2023.2167015",
+      "type": "journal-article",
+      "score": 53.50921
+    },
+    "status": "OK",
+    "issues": []
+  }
+]

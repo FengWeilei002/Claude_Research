@@ -1,4 +1,9 @@
 {
+  "env": {
+    "PYTHONUTF8": "1",
+    "PYTHONIOENCODING": "utf-8",
+    "RESEARCH_VAULT": "D:/research/ResearchVault"
+  },
   "permissions": {
     "allow": [
       "Bash(npm --version)",
@@ -23,7 +28,80 @@
       "Bash(mkdir -p \"D:/research\")",
       "Read(//d/research/**)",
       "Bash(rm -rf \"D:/research/ResearchVault\")",
-      "Bash(mv \"D:/system files/桌面/documents/202604\" \"D:/research/ResearchVault\")"
+      "Bash(mv \"D:/system files/桌面/documents/202604\" \"D:/research/ResearchVault\")",
+      "Bash(python -c ' *)",
+      "WebSearch",
+      "Bash(python *)",
+      "Bash(npx -y @fre4x/arxiv \"Aflaki Netessine strategic investment renewable energy intermittency\")",
+      "Bash(curl -s \"https://api.crossref.org/works?query.title=Strategic+Commitment+to+a+Production+Schedule+with+Uncertain+Supply+and+Demand&query.author=Sunar&rows=3\")",
+      "Bash(curl -s \"https://api.deepseek.com/anthropic\" --max-time 5)",
+      "WebFetch(domain:api.crossref.org)",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Strategic+Investment+Renewable+Energy+Sunar&filter=type:journal-article&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://export.arxiv.org/api/query?search_query=all:renewable+energy+operations+management&max_results=2\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" --max-time 10 \"https://scholar.google.com/scholar?q=renewable+energy+operations+management\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" --max-time 10 \"https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2961\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" --max-time 10 \"https://www.sciencedirect.com\")",
+      "Bash(curl -s --max-time 15 \"https://api.semanticscholar.org/graph/v1/paper/search?query=Strategic+Investment+Renewable+Energy+Sunar+Birge&limit=2&fields=title,journal,externalIds,year,publicationVenue\")",
+      "Bash(curl -s --max-time 15 \"https://api.openalex.org/works?search=Strategic%20Investment%20Renewable%20Energy%20Sunar&per_page=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1287/mnsc.2017.2961\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Investments+Renewable+Conventional+Energy+Operational+Flexibility&filter=type:journal-article&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Curtailing+Intermittent+Generation+Electrical+Systems&filter=type:journal-article&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Mechanism+Design+Capacity+Planning+Dynamic+Evolutions+Asymmetric+Demand+Forecasts&filter=type:journal-article&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Renewable+Energy+Sourcing+Agrawal+Yucel&rows=3\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Supply+Chain+Coordination+with+Revenue-Sharing+Contracts+Strengths+Limitations+Cachon+Lariviere&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.author=Myerson&query.title=Cooperative+Games+Incomplete+Information&rows=3\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Opportunities+Challenges+Data+Center+Demand+Response&rows=3\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Mechanism+Design+Approach+Vendor+Managed+Inventory+Kadiyala&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works?query.title=Energy+Portfolio+Optimization+Data+Centers+Ghamkhari&rows=2\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1287/mnsc.2021.4000\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1109/tsg.2015.2510428\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1287/mnsc.2019.3297\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1287/msom.2023.0372\")",
+      "Bash(curl -s --max-time 10 \"https://api.crossref.org/works/10.1287/opre.2023.0546\")",
+      "Bash(PYTHONUTF8=1 python *)",
+      "Read(data/**)",
+      "Write(output/**)",
+      "Bash(jq *)",
+      "WebFetch(domain:api.semanticscholar.org)",
+      "WebFetch(domain:api.openalex.org)",
+      "WebFetch(domain:export.arxiv.org)",
+      "WebFetch(domain:scholar.google.com)",
+      "Skill(update-config)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"hookSpecificOutput\":{\"hookEventName\":\"SessionStart\",\"additionalContext\":\"ResearchVault 研究环境已就绪。当前项目：运筹学/理论经济学博士研究，重点方向：可再生能源供应链、机制设计、运营灵活性。数据目录 data/ 只读，输出目录 output/ 可写。\"}}'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"D:/research/ResearchVault\" && if [ -n \"$(git status --porcelain 2>/dev/null)\" ]; then echo '{\"systemMessage\":\"⚠️ 有未提交的更改，建议 git commit 保存进度\"}'; fi"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // empty' 2>/dev/null | { read -r f; case \"$f\" in *01_Literature/Reading_Notes/*.md) echo \"{\\\"systemMessage\\\":\\\"📝 文献笔记已创建: $(basename \"$f\" 2>/dev/null)。建议在 Obsidian 中添加 [[WikiLinks]] 关联到相关方法和想法笔记。\\\"}\" ;; esac; } 2>/dev/null || true"
+          }
+        ]
+      }
     ]
   }
 }
