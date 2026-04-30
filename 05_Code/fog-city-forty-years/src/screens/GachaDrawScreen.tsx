@@ -6,6 +6,7 @@ import { PlayerGrid } from "../components/PlayerGrid";
 import { StageFrame } from "../components/StageFrame";
 import { identities } from "../data/identities";
 import { useGameStore } from "../store/gameStore";
+import { characterPortraits } from "../visualAssets";
 
 export function GachaDrawScreen() {
   const players = useGameStore((state) => state.players);
@@ -29,13 +30,13 @@ export function GachaDrawScreen() {
       <div className="grid flex-1 grid-cols-1 gap-8 xl:grid-cols-[28rem_1fr]">
         <section className="flex flex-col justify-center">
           <div className="mb-6">
-            <div className="text-xs tracking-[0.35em] text-cyan-100/70">IDENTITY DRAW</div>
-            <h2 className="mt-3 font-serif text-4xl text-zinc-50">抽取身份</h2>
-            <p className="mt-3 text-base leading-7 text-zinc-400">四名玩家依次翻开档案卡。身份会改变初始金钱、认知与健康。</p>
+            <div className="text-xs tracking-[0.35em] text-[#d8c8a4]/70">IDENTITY DRAW</div>
+            <h2 className="mt-3 font-serif text-4xl text-[#f5ead2] text-shadow-soft">抽取身份</h2>
+            <p className="mt-3 text-base leading-7 text-zinc-300">四名玩家依次翻开档案卡。身份会改变初始金钱、认知与健康。</p>
           </div>
 
           <div className="relative grid place-items-center py-6">
-            <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(34,211,238,0.17),transparent_36%)]" />
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(217,70,239,0.16),transparent_34%),radial-gradient(circle_at_50%_52%,rgba(199,154,88,0.18),transparent_40%)]" />
             <IdentityCard
               key={`${drawnCount}-${cardIdentityId ?? "hidden"}`}
               identityId={cardIdentityId}
@@ -48,7 +49,7 @@ export function GachaDrawScreen() {
             type="button"
             disabled={allDrawn}
             onClick={drawNextIdentity}
-            className="mt-4 inline-flex h-14 items-center justify-center gap-3 border border-cyan-100/50 bg-cyan-50 px-7 text-base font-medium text-zinc-950 transition hover:bg-white disabled:cursor-not-allowed disabled:border-white/10 disabled:bg-white/10 disabled:text-zinc-500"
+            className="mt-4 inline-flex h-14 items-center justify-center gap-3 border border-[#e0bb78]/65 bg-[#eee4ce] px-7 text-base font-medium text-[#111514] shadow-[0_0_34px_rgba(199,154,88,0.18)] transition hover:bg-[#fff4d8] disabled:cursor-not-allowed disabled:border-white/10 disabled:bg-white/10 disabled:text-zinc-500"
           >
             <Sparkles size={20} />
             {allDrawn ? "身份已全部揭示" : `为${currentPlayer.label}抽卡`}
@@ -64,14 +65,21 @@ export function GachaDrawScreen() {
                 initial={{ opacity: 0, y: 12 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: -8 }}
-                className="border border-white/10 bg-black/30 p-6 backdrop-blur-md"
+                className="fog-panel p-6"
               >
-                <div className="text-xs tracking-[0.28em] text-zinc-500">最新揭示</div>
-                <div className="mt-3 flex flex-wrap items-end gap-4">
-                  <h3 className="font-serif text-3xl text-zinc-50">{identities[latestIdentityId].name}</h3>
-                  <span className="pb-1 text-sm text-zinc-400">{players[drawnCount - 1]?.label}</span>
+                <div className="relative text-xs tracking-[0.28em] text-[#d8c8a4]/55">最新揭示</div>
+                <div className="relative mt-3 flex flex-wrap items-center gap-4">
+                  <div className="portrait-frame size-16 shrink-0">
+                    <img src={characterPortraits[latestIdentityId]} alt="" className="h-full w-full object-cover" />
+                  </div>
+                  <div>
+                    <h3 className="font-serif text-3xl text-[#f5ead2]">{identities[latestIdentityId].name}</h3>
+                    <span className="text-sm text-zinc-400">{players[drawnCount - 1]?.label}</span>
+                  </div>
                 </div>
-                <p className="mt-4 max-w-3xl font-serif text-xl leading-9 text-zinc-200">{identities[latestIdentityId].quote}</p>
+                <p className="relative mt-4 max-w-3xl border-l border-[#c79a58]/45 pl-4 font-serif text-xl leading-9 text-zinc-200">
+                  {identities[latestIdentityId].quote}
+                </p>
               </motion.div>
             ) : null}
           </AnimatePresence>

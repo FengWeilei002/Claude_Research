@@ -12,6 +12,7 @@ import { identities } from "../data/identities";
 import { getVoiceLinesForEvent } from "../data/voiceLines";
 import { useGameStore } from "../store/gameStore";
 import type { EventChoiceLog, EventId, NarrativeEventChoice, PlayerId, PlayerState } from "../types/game";
+import { eventBackgrounds } from "../visualAssets";
 import type { VoiceLineWithProfile } from "../data/voiceLines";
 
 interface EventScreenProps {
@@ -29,6 +30,16 @@ function getEventIcon(eventId: EventId) {
   if (eventId === "pandemic") return HeartPulse;
   if (eventId === "internet") return Wifi;
   return BriefcaseBusiness;
+}
+
+function getCoverOverlay(eventId: EventId) {
+  if (eventId === "pandemic") {
+    return "bg-[linear-gradient(180deg,rgba(232,240,238,0.10),rgba(7,11,12,0.84)),radial-gradient(circle_at_24%_12%,rgba(255,255,255,0.24),transparent_22rem)]";
+  }
+  if (eventId === "internet") {
+    return "bg-[linear-gradient(180deg,rgba(6,47,56,0.18),rgba(7,11,12,0.82)),linear-gradient(90deg,rgba(14,165,233,0.12)_1px,transparent_1px)] bg-[length:auto,46px_46px]";
+  }
+  return "bg-[linear-gradient(180deg,rgba(245,158,11,0.08),rgba(7,11,12,0.86)),radial-gradient(circle_at_78%_16%,rgba(217,70,239,0.18),transparent_24rem)]";
 }
 
 function ChoiceHistory({ player, eventId }: { player: PlayerState; eventId: EventId }) {
@@ -66,6 +77,7 @@ export function EventScreen({ eventId }: EventScreenProps) {
   } | null>(null);
   const [startupIntent, setStartupIntent] = useState<"undecided" | "launch">("undecided");
   const event = eventMap[eventId];
+  const backgroundImage = eventBackgrounds[eventId];
   const players = useGameStore((state) => state.players);
   const choiceBook = useGameStore((state) => state.choices);
   const currentDecisionIndex = useGameStore((state) => state.currentDecisionIndex);
@@ -115,17 +127,21 @@ export function EventScreen({ eventId }: EventScreenProps) {
       }
     >
       <div className="grid flex-1 grid-cols-1 gap-6 xl:grid-cols-[0.92fr_1.08fr]">
-        <section className={`relative overflow-hidden border border-white/10 bg-gradient-to-br ${event.coverClass} p-8 shadow-glow before:absolute before:inset-0 before:opacity-100`}>
-          <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(0,0,0,0.08),rgba(0,0,0,0.74))]" />
+        <section className={`paper-edge relative overflow-hidden border bg-gradient-to-br ${event.coverClass} p-8 shadow-[0_26px_80px_rgba(0,0,0,0.32)] before:absolute before:inset-0 before:opacity-100`}>
+          {backgroundImage ? <img src={backgroundImage} alt="" className="absolute inset-0 h-full w-full object-cover opacity-[0.82]" /> : null}
+          <div className={`absolute inset-0 ${getCoverOverlay(eventId)}`} />
+          <div className="absolute inset-x-0 bottom-0 h-1/2 bg-[linear-gradient(180deg,transparent,rgba(0,0,0,0.76))]" />
           <div className="relative flex h-full min-h-[34rem] flex-col">
             <div className={`inline-flex w-fit items-center gap-3 border px-4 py-2 text-sm tracking-[0.24em] ${event.accentClass}`}>
               <Icon size={18} />
               {event.era}
             </div>
-            <h2 className="mt-8 font-serif text-6xl leading-none text-zinc-50">{event.title}</h2>
-            <p className="mt-5 max-w-2xl text-xl leading-9 text-zinc-200">{event.subtitle}</p>
-            <div className="mt-10 max-w-3xl border-l border-white/40 pl-5 font-serif text-2xl leading-10 text-zinc-50">{event.quote}</div>
-            <p className="mt-auto max-w-3xl text-base leading-8 text-zinc-300">{event.scene}</p>
+            <h2 className="mt-8 font-serif text-6xl leading-none text-[#f5ead2] text-shadow-soft">{event.title}</h2>
+            <p className="mt-5 max-w-2xl text-xl leading-9 text-zinc-100 text-shadow-soft">{event.subtitle}</p>
+            <div className="mt-10 max-w-3xl border-l border-[#c79a58]/65 bg-black/[0.18] py-2 pl-5 font-serif text-2xl leading-10 text-[#f7f0df] backdrop-blur-[2px]">
+              {event.quote}
+            </div>
+            <p className="mt-auto max-w-3xl bg-black/[0.26] p-4 text-base leading-8 text-zinc-200 backdrop-blur-sm">{event.scene}</p>
           </div>
         </section>
 
@@ -137,13 +153,13 @@ export function EventScreen({ eventId }: EventScreenProps) {
               key={currentPlayer?.id}
               initial={{ opacity: 0, y: 14 }}
               animate={{ opacity: 1, y: 0 }}
-              className="border border-white/10 bg-black/40 p-6 backdrop-blur-md"
+              className="fog-panel p-6"
             >
-              <div className="text-xs tracking-[0.3em] text-zinc-500">DECISION</div>
-              <h3 className="mt-3 font-serif text-3xl text-zinc-50">
+              <div className="relative text-xs tracking-[0.3em] text-[#d8c8a4]/55">DECISION</div>
+              <h3 className="relative mt-3 font-serif text-3xl text-[#f5ead2]">
                 {allResolved ? "时代已经结算" : `${currentPlayer?.label} · ${identity?.name}`}
               </h3>
-              <p className="mt-3 min-h-14 text-base leading-7 text-zinc-300">
+              <p className="relative mt-3 min-h-14 text-base leading-7 text-zinc-300">
                 {allResolved
                   ? "主持人可以进入下一阶段。"
                   : eventId === "pandemic"
@@ -183,8 +199,8 @@ export function EventScreen({ eventId }: EventScreenProps) {
               </div>
             </motion.div>
 
-            <div className="space-y-3 overflow-hidden border border-white/10 bg-black/30 p-5 backdrop-blur-md">
-              <div className="text-xs tracking-[0.3em] text-zinc-500">CHOICE LOG</div>
+            <div className="fog-panel space-y-3 overflow-hidden p-5">
+              <div className="relative text-xs tracking-[0.3em] text-[#d8c8a4]/55">CHOICE LOG</div>
               <div className="max-h-[23rem] space-y-3 overflow-y-auto pr-1">
                 <AnimatePresence initial={false}>
                   {players.map((player) => (

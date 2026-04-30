@@ -91,7 +91,7 @@ export function StartupDecisionPanel({
             data-testid="startup-decline"
             disabled={disabled}
             onClick={onDecline}
-            className="group relative overflow-hidden border border-white/15 bg-white/7 px-5 py-5 text-left text-zinc-100 transition hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-50"
+            className="group relative overflow-hidden border border-white/15 bg-white/[0.07] px-5 py-5 text-left text-zinc-100 transition hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-50"
           >
             <div className="flex items-center gap-3">
               <DoorOpen size={20} />
