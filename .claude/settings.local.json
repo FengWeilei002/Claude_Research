@@ -66,7 +66,33 @@
       "WebFetch(domain:api.openalex.org)",
       "WebFetch(domain:export.arxiv.org)",
       "WebFetch(domain:scholar.google.com)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git mv *)",
+      "WebFetch(domain:karpathy.github.io)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:karpathy.ai)",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/users/karpathy/repos?per_page=50&sort=updated\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/nn-zero-to-hero/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/build-nanogpt/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/ng-video-lecture/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/nanochat/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/micrograd/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/users/karpathy/repos?per_page=100&sort=stars&direction=desc\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/karpathy.github.io/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/LLM101n/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/llm.c/readme\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/karpathy.github.io/contents/_posts\")",
+      "Bash(curl -s --max-time 15 \"https://api.github.com/repos/karpathy/llm.c/discussions?per_page=5\")",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:nitter.net)",
+      "WebFetch(domain:karpathy.substack.com)",
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:www.reddit.com)",
+      "WebFetch(domain:simonwillison.net)",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:www.theverge.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:docs.anthropic.com)"
     ]
   },
   "hooks": {
@@ -103,5 +129,6 @@
         ]
       }
     ]
-  }
+  },
+  "skipWebFetchPreflight": true
 }

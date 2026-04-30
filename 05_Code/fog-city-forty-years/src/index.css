@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  background: #09090b;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background:
+    linear-gradient(180deg, #09090b 0%, #111113 48%, #060607 100%);
+}
+
+button {
+  font: inherit;
+}
+
+.noise-layer::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 5;
+  opacity: 0.22;
+  mix-blend-mode: soft-light;
+  background:
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 4px),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 7px);
+}
+
+.card-perspective {
+  perspective: 1600px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.choice-button {
+  display: grid;
+  min-height: 5.5rem;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 0.25rem 0.75rem;
+  border-width: 1px;
+  padding: 1rem;
+  text-align: left;
+  transition:
+    transform 180ms ease,
+    background-color 180ms ease,
+    border-color 180ms ease,
+    opacity 180ms ease;
+}
+
+.choice-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.choice-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.62;
+}
+
+.choice-button > span {
+  grid-column: 2;
+  color: rgba(228, 228, 231, 0.72);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.voice-paper-texture {
+  background:
+    linear-gradient(115deg, rgba(244, 232, 203, 0.12), transparent 38%),
+    repeating-linear-gradient(0deg, rgba(244, 232, 203, 0.06) 0 1px, transparent 1px 6px),
+    repeating-linear-gradient(90deg, rgba(199, 154, 88, 0.05) 0 1px, transparent 1px 11px);
+}
+
+.voice-ink-wash {
+  background:
+    radial-gradient(circle at 16% 24%, rgba(14, 116, 144, 0.18), transparent 28%),
+    radial-gradient(circle at 78% 18%, rgba(199, 154, 88, 0.12), transparent 25%),
+    linear-gradient(145deg, rgba(244, 232, 203, 0.055), transparent 52%);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.22);
+}
